@@ -1,0 +1,297 @@
+LuogoNascita;DescrNazioneNascita;FlagAppartenenzaUE;DescrGruppoPaese;DataIngressoUE;DataUscitaUE
+ITAL;ITALIA;S;Italia;01/07/1999;31/12/9999
+ND;Non determinato;ND;Non determinato;;
+Z100;ALBANIA;N;Extra Unione Europea;;
+Z101;ANDORRA;N;Extra Unione Europea;;
+Z102;AUSTRIA;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z103;BELGIO;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z104;BULGARIA;S;Unione Europea (esclusa Italia);01/07/2007;31/12/9999
+Z105;CECOSLOVACCHIA (ANTE 1993);S;Unione Europea (esclusa Italia);01/07/2005;31/12/9999
+Z106;CITTA' DEL VATICANO;N;Extra Unione Europea;;
+Z107;DANIMARCA;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z108;FAER OER (ISOLE);N;Extra Unione Europea;;
+Z109;FINLANDIA;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z110;FRANCIA;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z111;GERMANIA REPUBBLICA DEMOCRATICA;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z112;GERMANIA (GERMANIA REPUBBLICA FEDERALE ANTE 1990);S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z113;GIBILTERRA;N;Extra Unione Europea;;
+Z114;GRAN BRETAGNA E IRLANDA DEL NORD;N;Extra Unione Europea;01/07/1999;31/01/2020
+Z115;GRECIA;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z116;IRLANDA=EIRE;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z117;ISLANDA;N;Extra Unione Europea;;
+Z118;IUGOSLAVIA (ANTE 1991);N;Extra Unione Europea;;
+Z119;LIECHTENSTEIN;N;Extra Unione Europea;;
+Z120;LUSSEMBURGO;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z121;MALTA;S;Unione Europea (esclusa Italia);01/07/2005;31/12/9999
+Z122;MAN (ISOLA);N;Extra Unione Europea;;
+Z123;MONACO;N;Extra Unione Europea;;
+Z124;NORMANNE (ISOLE)=ISOLE DEL CANALE;N;Extra Unione Europea;;
+Z125;NORVEGIA;N;Extra Unione Europea;;
+Z126;PAESI BASSI;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z127;REPUBBLICA DI POLONIA (REPUBBLICA POPOLARE DI POLONIA ANTE 1989);S;Unione Europea (esclusa Italia);01/07/2005;31/12/9999
+Z128;PORTOGALLO;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z129;ROMANIA;S;Unione Europea (esclusa Italia);01/07/2007;31/12/9999
+Z130;SAN MARINO;N;Extra Unione Europea;;
+Z131;SPAGNA;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z132;SVEZIA;S;Unione Europea (esclusa Italia);01/07/1999;31/12/9999
+Z133;SVIZZERA;N;Extra Unione Europea;;
+Z134;UNGHERIA;S;Unione Europea (esclusa Italia);01/07/2005;31/12/9999
+Z135;UNIONE REPUBBLICHE SOCIALISTE SOVIETICHE (ANTE 1991);N;Extra Unione Europea;;
+Z136;GEORGIA (ANTE 1994);N;Extra Unione Europea;;
+Z137;ARMENIA;N;Extra Unione Europea;;
+Z138;UCRAINA;N;Extra Unione Europea;;
+Z139;BIELORUSSIA=RUSSIA BIANCA;N;Extra Unione Europea;;
+Z140;MOLDAVIA;N;Extra Unione Europea;;
+Z141;AZERBAIGIAN;N;Extra Unione Europea;;
+Z142;KIRGHIZISTAN;N;Extra Unione Europea;;
+Z143;UZBEKISTAN;N;Extra Unione Europea;;
+Z144;ESTONIA;S;Unione Europea (esclusa Italia);01/07/2005;31/12/9999
+Z145;LETTONIA;S;Unione Europea (esclusa Italia);01/07/2005;31/12/9999
+Z146;LITUANIA;S;Unione Europea (esclusa Italia);01/07/2005;31/12/9999
+Z147;TAGIKISTAN;N;Extra Unione Europea;;
+Z148;MACEDONIA;N;Extra Unione Europea;;
+Z149;CROAZIA;S;Unione Europea (esclusa Italia);01/07/2013;31/12/9999
+Z150;SLOVENIA;S;Unione Europea (esclusa Italia);01/07/2005;31/12/9999
+Z151;TURKEMENISTAN;N;Extra Unione Europea;;
+Z152;KAZAKISTAN;N;Extra Unione Europea;;
+Z153;BOSNIA ED ERZEGOVINA;N;Extra Unione Europea;;
+Z154;RUSSIA=FEDERAZIONE RUSSA;N;Extra Unione Europea;;
+Z155;SLOVACCHIA;S;Unione Europea (esclusa Italia);01/07/2005;31/12/9999
+Z156;CECA REPUBBLICA;S;Unione Europea (esclusa Italia);01/07/2005;31/12/9999
+Z157;SERBIA E MONTENEGRO;N;Extra Unione Europea;;
+Z158;SERBIA;N;Extra Unione Europea;;
+Z159;MONTENEGRO;N;Extra Unione Europea;;
+Z160;KOSSOVO;N;Extra Unione Europea;;
+Z161;TERRITORI PALESTINESI;N;Extra Unione Europea;;
+Z200;AFGHANISTAN;N;Extra Unione Europea;;
+Z201;ARABIA MERIDIONALE FEDERAZIONE;N;Extra Unione Europea;;
+Z202;ARABIA MERIDIONALE PROTETTORATO;N;Extra Unione Europea;;
+Z203;ARABIA SAUDITA;N;Extra Unione Europea;;
+Z204;BAHREIN;N;Extra Unione Europea;;
+Z205;BHUTAN;N;Extra Unione Europea;;
+Z206;BIRMANIA;N;Extra Unione Europea;;
+Z207;BRUNEI;N;Extra Unione Europea;;
+Z208;CAMBOGIA;N;Extra Unione Europea;;
+Z209;SRI LANKA (CEYLON ANTE 1975);N;Extra Unione Europea;;
+Z210;CINA REPUBBLICA POPOLARE;N;Extra Unione Europea;;
+Z211;CIPRO;S;Unione Europea (esclusa Italia);01/07/2005;31/12/9999
+Z212;COCOS (ISOLE);N;Extra Unione Europea;;
+Z213;COREA DEL SUD;N;Extra Unione Europea;;
+Z214;COREA DEL NORD;N;Extra Unione Europea;;
+Z215;EMIRATI ARABI UNITI (COSTA DEI PIRATI=TRUCIAL STATES ANTE 1975);N;Extra Unione Europea;;
+Z216;FILIPPINE;N;Extra Unione Europea;;
+Z217;TAIWAN (REPUBBLICA DELLA CINA NAZIONALE - FORMOSA ANTE 1975);N;Extra Unione Europea;;
+Z218;GAZA (TERRITORIO DI);N;Extra Unione Europea;;
+Z219;GIAPPONE;N;Extra Unione Europea;;
+Z220;GIORDANIA;N;Extra Unione Europea;;
+Z221;HONG KONG;N;Extra Unione Europea;;
+Z222;INDIA;N;Extra Unione Europea;;
+Z223;INDONESIA;N;Extra Unione Europea;;
+Z224;IRAN;N;Extra Unione Europea;;
+Z225;IRAQ;N;Extra Unione Europea;;
+Z226;ISRAELE;N;Extra Unione Europea;;
+Z227;KUWAIT;N;Extra Unione Europea;;
+Z228;LAOS;N;Extra Unione Europea;;
+Z229;LIBANO;N;Extra Unione Europea;;
+Z230;MALAYSIA (ANTE 1975);N;Extra Unione Europea;;
+Z231;MACAO;N;Extra Unione Europea;;
+Z232;MALDIVE;N;Extra Unione Europea;;
+Z233;MONGOLIA;N;Extra Unione Europea;;
+Z234;NEPAL;N;Extra Unione Europea;;
+Z235;OMAN;N;Extra Unione Europea;;
+Z236;PAKISTAN;N;Extra Unione Europea;;
+Z237;QATAR;N;Extra Unione Europea;;
+Z238;RYUKYU (ISOLE);N;Extra Unione Europea;;
+Z239;SIKKIM;N;Extra Unione Europea;;
+Z240;SIRIA;N;Extra Unione Europea;;
+Z241;THAILANDIA;N;Extra Unione Europea;;
+Z242;TIMOR (ISOLA);N;Extra Unione Europea;;
+Z243;TURCHIA;N;Extra Unione Europea;;
+Z244;VIETNAM DEL SUD;N;Extra Unione Europea;;
+Z245;VIETNAM DEL NORD;N;Extra Unione Europea;;
+Z246;YEMEN;N;Extra Unione Europea;;
+Z247;MALAYSIA;N;Extra Unione Europea;;
+Z248;SINGAPORE;N;Extra Unione Europea;;
+Z249;BANGLADESH;N;Extra Unione Europea;;
+Z250;YEMEN REPUBBLICA DEMOCRATICA POPOLARE;N;Extra Unione Europea;;
+Z251;VIETNAM;N;Extra Unione Europea;;
+Z252;ARMENIA;N;Extra Unione Europea;;
+Z253;AZERBAIGIAN;N;Extra Unione Europea;;
+Z254;GEORGIA;N;Extra Unione Europea;;
+Z255;KAZAKISTAN;N;Extra Unione Europea;;
+Z256;KIRGHIZISTAN;N;Extra Unione Europea;;
+Z257;TAGIKISTAN;N;Extra Unione Europea;;
+Z258;TURKEMENISTAN;N;Extra Unione Europea;;
+Z259;UZBEKISTAN;N;Extra Unione Europea;;
+Z300;NAMIBIA (AFRICA DEL SUD OVEST ANTE 1978);N;Extra Unione Europea;;
+Z301;ALGERIA;N;Extra Unione Europea;;
+Z302;ANGOLA;N;Extra Unione Europea;;
+Z303;BASUTOLAND-SUD AFRICA BRITANNICO;N;Extra Unione Europea;;
+Z304;BECIUANIA-SUD AFRICA BRITANNICO;N;Extra Unione Europea;;
+Z305;BURUNDI;N;Extra Unione Europea;;
+Z306;CAMERUN;N;Extra Unione Europea;;
+Z307;CAPO VERDE;N;Extra Unione Europea;;
+Z308;CENTRAFRICANA REPUBBLICA (CENTROAFRICANO IMPERO ANTE 1980);N;Extra Unione Europea;;
+Z309;CIAD;N;Extra Unione Europea;;
+Z310;COMORE (COMORE ISOLE ANTE 1977);N;Extra Unione Europea;;
+Z311;CONGO REPUBBLICA POPOLARE (CONGO BRAZZAVILLE ANTE 1975);N;Extra Unione Europea;;
+Z312;CONGO REPUBBLICA DEMOCRATICA (ZAIRE ANTE 1997);N;Extra Unione Europea;;
+Z313;COSTA D'AVORIO;N;Extra Unione Europea;;
+Z314;BENIN (DAHOMEI ANTE 1975);N;Extra Unione Europea;;
+Z315;ETIOPIA;N;Extra Unione Europea;;
+Z316;GABON;N;Extra Unione Europea;;
+Z317;GAMBIA;N;Extra Unione Europea;;
+Z318;GHANA;N;Extra Unione Europea;;
+Z319;GUINEA;N;Extra Unione Europea;;
+Z320;GUINEA BISSAU (GUINEA PORTOGHESE ANTE 1975);N;Extra Unione Europea;;
+Z321;GUINEA EQUATORIALE (GUINEA SPAGNOLA ANTE 1975);N;Extra Unione Europea;;
+Z322;KENYA;N;Extra Unione Europea;;
+Z323;IFNI (ANTE 1984);N;Extra Unione Europea;;
+Z324;LA REUNION (ISOLA);N;Extra Unione Europea;;
+Z325;LIBERIA;N;Extra Unione Europea;;
+Z326;LIBIA;N;Extra Unione Europea;;
+Z327;MADAGASCAR;N;Extra Unione Europea;;
+Z328;MALAWI;N;Extra Unione Europea;;
+Z329;MALI;N;Extra Unione Europea;;
+Z330;MAROCCO;N;Extra Unione Europea;;
+Z331;MAURITANIA;N;Extra Unione Europea;;
+Z332;MAURIZIO (MAURIZIO ISOLE ANTE 1975);N;Extra Unione Europea;;
+Z333;MOZAMBICO;N;Extra Unione Europea;;
+Z334;NIGER;N;Extra Unione Europea;;
+Z335;NIGERIA;N;Extra Unione Europea;;
+Z336;EGITTO;N;Extra Unione Europea;;
+Z337;ZIMBABWE (RHODESIA ANTE 1980);N;Extra Unione Europea;;
+Z338;RUANDA;N;Extra Unione Europea;;
+Z339;SAHARA SPAGNOLO;N;Extra Unione Europea;;
+Z340;SANT'ELENA (ISOLA);N;Extra Unione Europea;;
+Z341;SAO TOME' E PRINCIPE (SAO TOME' E PRINCIPE ISOLE ANTE 1975);N;Extra Unione Europea;;
+Z342;SEICELLE (SEICELLE ISOLE ANTE 1977);N;Extra Unione Europea;;
+Z343;SENEGAL;N;Extra Unione Europea;;
+Z344;SIERRA LEONE;N;Extra Unione Europea;;
+Z345;SOMALIA;N;Extra Unione Europea;;
+Z346;SOMALIA FRANCESE (TERRITORIO FRANCESE DEGLI AFAR E DEGLI ISSA ANTE 1975);N;Extra Unione Europea;;
+Z347;SUDAFRICANA REPUBBLICA;N;Extra Unione Europea;;
+Z348;SUDAN;N;Extra Unione Europea;;
+Z349;SWAZILAND (SWAZILAND-SUDAFRICA BRITANNICO ANTE 1975);N;Extra Unione Europea;;
+Z350;TANGANICA;N;Extra Unione Europea;;
+Z351;TOGO;N;Extra Unione Europea;;
+Z352;TUNISIA;N;Extra Unione Europea;;
+Z353;UGANDA;N;Extra Unione Europea;;
+Z354;BURKINA (VOLTA=ALTOVOLTA ANTE 1984);N;Extra Unione Europea;;
+Z355;ZAMBIA;N;Extra Unione Europea;;
+Z356;ZANZIBAR;N;Extra Unione Europea;;
+Z357;TANZANIA;N;Extra Unione Europea;;
+Z358;BOTSWANA;N;Extra Unione Europea;;
+Z359;LESOTHO;N;Extra Unione Europea;;
+Z360;MAYOTTE (ISOLA);N;Extra Unione Europea;;
+Z361;GIBUTI;N;Extra Unione Europea;;
+Z362;SAHARA MERIDIONALE;N;Extra Unione Europea;;
+Z363;SAHARA SETTENTRIONALE;N;Extra Unione Europea;;
+Z364;BOPHUTHATSWANA;N;Extra Unione Europea;;
+Z365;TRANSKEI;N;Extra Unione Europea;;
+Z366;VENDA;N;Extra Unione Europea;;
+Z367;CISKEI;N;Extra Unione Europea;;
+Z368;ERITREA;N;Extra Unione Europea;;
+Z369;NYASALAND;N;Extra Unione Europea;;
+Z370;CONGO BELGA;N;Extra Unione Europea;;
+Z400;BERMUDA (ISOLE);N;Extra Unione Europea;;
+Z401;CANADA;N;Extra Unione Europea;;
+Z402;GROENLANDIA;N;Extra Unione Europea;;
+Z403;SAINT PIERRE ET MIQUELON (ISOLE);N;Extra Unione Europea;;
+Z404;STATI UNITI D'AMERICA;N;Extra Unione Europea;;
+Z500;ANTILLE BRITANNICHE;N;Extra Unione Europea;;
+Z501;ANTILLE OLANDESI;N;Extra Unione Europea;;
+Z502;BAHAMA (BAHAMA ISOLE ANTE 1975);N;Extra Unione Europea;;
+Z503;COSTA RICA;N;Extra Unione Europea;;
+Z504;CUBA;N;Extra Unione Europea;;
+Z505;DOMINICANA REPUBBLICA;N;Extra Unione Europea;;
+Z506;EL SALVADOR;N;Extra Unione Europea;;
+Z507;GIAMAICA;N;Extra Unione Europea;;
+Z508;GUADALUPA;N;Extra Unione Europea;;
+Z509;GUATEMALA;N;Extra Unione Europea;;
+Z510;HAITI;N;Extra Unione Europea;;
+Z511;HONDURAS;N;Extra Unione Europea;;
+Z512;BELIZE (HONDURAS BRITANNICO ANTE 1984);N;Extra Unione Europea;;
+Z513;MARTINICA;N;Extra Unione Europea;;
+Z514;MESSICO;N;Extra Unione Europea;;
+Z515;NICARAGUA;N;Extra Unione Europea;;
+Z516;PANAMA';N;Extra Unione Europea;;
+Z517;PANAMA ZONA DEL CANALE;N;Extra Unione Europea;;
+Z518;PUERTO RICO;N;Extra Unione Europea;;
+Z519;TURKS E CAICOS (ISOLE);N;Extra Unione Europea;;
+Z520;VERGINI AMERICANE (ISOLE);N;Extra Unione Europea;;
+Z521;ANTILLE BRITANNICHE (ANTE 1977);N;Extra Unione Europea;;
+Z522;BARBADOS;N;Extra Unione Europea;;
+Z523;ANTILLE BRITANNICHE;N;Extra Unione Europea;;
+Z524;GRENADA;N;Extra Unione Europea;;
+Z525;VERGINI BRITANNICHE (ISOLE);N;Extra Unione Europea;;
+Z526;DOMINICA;N;Extra Unione Europea;;
+Z527;SAINT LUCIA;N;Extra Unione Europea;;
+Z528;SAINT VINCENT E GRENADINE;N;Extra Unione Europea;;
+Z529;ANGUILLA (ISOLA);N;Extra Unione Europea;;
+Z530;CAYMAN (ISOLE);N;Extra Unione Europea;;
+Z531;MONTSERRAT;N;Extra Unione Europea;;
+Z532;ANTIGUA E BARBUDA;N;Extra Unione Europea;;
+Z533;SAINT KITTS E NEVIS=SAINT CHRISTOPHER E NEVIS;N;Extra Unione Europea;;
+Z600;ARGENTINA;N;Extra Unione Europea;;
+Z601;BOLIVIA;N;Extra Unione Europea;;
+Z602;BRASILE;N;Extra Unione Europea;;
+Z603;CILE;N;Extra Unione Europea;;
+Z604;COLOMBIA;N;Extra Unione Europea;;
+Z605;ECUADOR;N;Extra Unione Europea;;
+Z606;GUYANA (GUYANA BRITANNICA ANTE 1975);N;Extra Unione Europea;;
+Z607;GUAYANA=GUIANA FRANCESE;N;Extra Unione Europea;;
+Z608;SURINAME (GUAYANA OLANDESE ANTE 1975);N;Extra Unione Europea;;
+Z609;MALVINE=FALKLAND (ISOLE);N;Extra Unione Europea;;
+Z610;PARAGUAY;N;Extra Unione Europea;;
+Z611;PERU';N;Extra Unione Europea;;
+Z612;TRINIDAD E TOBAGO;N;Extra Unione Europea;;
+Z613;URUGUAY;N;Extra Unione Europea;;
+Z614;VENEZUELA;N;Extra Unione Europea;;
+Z700;AUSTRALIA;N;Extra Unione Europea;;
+Z701;CAROLINE (ISOLE) (STATI FEDERATI DI MICRONESIA ANTE 1990);N;Extra Unione Europea;;
+Z702;CHRISTMAS (ISOLA);N;Extra Unione Europea;;
+Z703;COOK (ISOLE);N;Extra Unione Europea;;
+Z704;FIGI (VITI ISOLE ANTE 1975);N;Extra Unione Europea;;
+Z705;GILBERT E ELLICE (ISOLE);N;Extra Unione Europea;;
+Z706;GUAM (ISOLA);N;Extra Unione Europea;;
+Z707;IRIAN OCCIDENTALE;N;Extra Unione Europea;;
+Z708;MACQUARIE (ISOLE);N;Extra Unione Europea;;
+Z709;MARCUS (ISOLE);N;Extra Unione Europea;;
+Z710;MARIANNE (ISOLE);N;Extra Unione Europea;;
+Z711;MARSHALL (MARSHALL ISOLE ANTE 1990);N;Extra Unione Europea;;
+Z712;MIDWAY (ISOLE);N;Extra Unione Europea;;
+Z713;NAURU (NAURU ISOLE ANTE 1975);N;Extra Unione Europea;;
+Z714;NIUE=SAVAGE (ISOLE);N;Extra Unione Europea;;
+Z715;NORFOLK (ISOLE E ISOLE DEL MAR DEI CORALLI);N;Extra Unione Europea;;
+Z716;NUOVA CALEDONIA (ISOLE E DIPENDENZE);N;Extra Unione Europea;;
+Z717;NUOVE EBRIDI (ISOLE CONDOMINIO FRANCO-INGLESE);N;Extra Unione Europea;;
+Z718;NUOVA GUINEA;N;Extra Unione Europea;;
+Z719;NUOVA ZELANDA;N;Extra Unione Europea;;
+Z720;PAPUASIA;N;Extra Unione Europea;;
+Z721;ISOLE CILENE (PASQUA E SALA Y GOMEZ) (PASQUA ISOLA ANTE 1984);N;Extra Unione Europea;;
+Z722;PITCAIRN (E DIPENDENZE);N;Extra Unione Europea;;
+Z723;POLINESIA FRANCESE (ISOLE);N;Extra Unione Europea;;
+Z724;SALOMONE (SALOMONE ISOLE ANTE 1978);N;Extra Unione Europea;;
+Z725;SAMOA AMERICANE (ISOLE);N;Extra Unione Europea;;
+Z726;SAMOA;N;Extra Unione Europea;;
+Z727;TOKELAU=ISOLE DELL'UNIONE;N;Extra Unione Europea;;
+Z728;TONGA (ISOLE DEGLI AMICI ANTE 1975);N;Extra Unione Europea;;
+Z729;WALLIS E FUTUNA (ISOLE);N;Extra Unione Europea;;
+Z730;PAPUA NUOVA GUINEA;N;Extra Unione Europea;;
+Z731;KIRIBATI;N;Extra Unione Europea;;
+Z732;TUVALU;N;Extra Unione Europea;;
+Z733;VANUATU;N;Extra Unione Europea;;
+Z734;PALAU (PALAU REPUBBLICA ANTE 1997);N;Extra Unione Europea;;
+Z735;MICRONESIA STATI FEDERATI;N;Extra Unione Europea;;
+Z800;DIPENDENZE CANADESI;N;Extra Unione Europea;;
+Z801;DIPENDENZE NORVEGESI ARTICHE;N;Extra Unione Europea;;
+Z802;DIPENDENZE RUSSE (DIPENDENZE SOVIETICHE ANTE 1992);N;Extra Unione Europea;;
+Z900;DIPENDENZE AUSTRALIANE;N;Extra Unione Europea;;
+Z901;DIPENDENZE BRITANNICHE;N;Extra Unione Europea;;
+Z902;DIPENDENZE FRANCESI;N;Extra Unione Europea;;
+Z903;DIPENDENZE NEOZELANDESI;N;Extra Unione Europea;;
+Z904;DIPENDENZE NORVEGESI ANTARTICHE;N;Extra Unione Europea;;
+Z905;DIPENDENZE STATUNITENSI;N;Extra Unione Europea;;
+Z906;DIPENDENZE SUDAFRICANE;N;Extra Unione Europea;;
+Z907;SUD SUDAN;N;Extra Unione Europea;;
