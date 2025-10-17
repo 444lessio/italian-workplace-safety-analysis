@@ -78,8 +78,9 @@ To run this project locally, follow these steps.
     ├── data/                     # Contains all the raw .csv and .xls datasets
     ├── images/                   # Contains the exported visualization images
     ├── main.py                   # The main executable Python script for the entire pipeline
-    ├── workplace_safety_ontology.ttl # The generated RDFS ontology file
-    ├── workplace_safety_knowledge_graph.ttl # The final, populated Knowledge Graph
+    ├──ttl.zip                    # File Zip that contains the files .ttl
+        └── workplace_safety_ontology.ttl # The generated RDFS ontology file
+        └── workplace_safety_knowledge_graph.ttl # The final, populated Knowledge Graph
     └── README.md                 # This file
 
 ---
